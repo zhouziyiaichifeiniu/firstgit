@@ -1,1 +1,2 @@
-This file is used to show readme text.
+Git is a distributed version control system.
+Git is free software.
